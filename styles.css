@@ -1,0 +1,9 @@
+body {
+  padding: 10px;
+  margin-left: 300;
+  background-color: red
+}
+.header {
+  flex-direction: row;
+  background-color: chartreuse
+}
